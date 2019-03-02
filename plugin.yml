@@ -1,0 +1,8 @@
+name: CountDown
+main: CountDown\Main
+version: 1.0.0
+api: 3
+load: POSTWORLD
+author: PJSoftTeam
+desctiption: PMMP CountDown Plugin
+website: https://github.com/PJSoftTeam
