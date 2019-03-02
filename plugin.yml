@@ -1,5 +1,5 @@
 name: CountDown
-main: CountDown\Main
+main: PJSoft\CountDown\Main
 version: 1.0.0
 api: 3
 load: POSTWORLD
