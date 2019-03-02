@@ -42,6 +42,8 @@
 				$this->owner->getLogger()->info("カウント終了しました");
 				//タスクを終了する
 				$this->getHandler()->cancel();
+				//処理をここで終了する
+				return;
 			}
 			//コンソールにメッセージを送る
 			$this->owner->getLogger()->info("カウント：{$this->count}");
